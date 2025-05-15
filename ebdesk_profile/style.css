@@ -486,6 +486,7 @@ tbody tr:hover {
   position: relative;
   overflow: hidden;
   border: 1px solid rgba(255, 255, 255, 0.05);
+  color: #f0f0f0; 
 }
 
 #system-framework::before,
